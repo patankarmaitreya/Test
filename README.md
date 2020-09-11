@@ -1,2 +1,2 @@
 # Test
-Test repository t study commands used in git
+Test repository to study commands used in git
